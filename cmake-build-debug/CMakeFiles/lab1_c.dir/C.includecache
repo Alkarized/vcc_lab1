@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/OneDrive - ITMO UNIVERSITY/ITMO_4sem/vcc/lab1_c/main.c
+stdio.h
+-
+structs.h
+E:/OneDrive - ITMO UNIVERSITY/ITMO_4sem/vcc/lab1_c/structs.h
+status.h
+E:/OneDrive - ITMO UNIVERSITY/ITMO_4sem/vcc/lab1_c/status.h
+malloc.h
+-
+
+E:/OneDrive - ITMO UNIVERSITY/ITMO_4sem/vcc/lab1_c/status.h
+
+E:/OneDrive - ITMO UNIVERSITY/ITMO_4sem/vcc/lab1_c/structs.h
+stdint.h
+-
+

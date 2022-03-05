@@ -1,0 +1,37 @@
+The system is: Windows - 10.0.19043 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: E:/vss/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.29.30133 для x86
+(C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.29.30133.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "E:/OneDrive - ITMO UNIVERSITY/ITMO_4sem/vcc/lab1_c/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/OneDrive - ITMO UNIVERSITY/ITMO_4sem/vcc/lab1_c/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_e0a03\fast && 	E:\vss\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\nmake.exe  -f CMakeFiles\cmTC_e0a03.dir\build.make /nologo -L                  CMakeFiles\cmTC_e0a03.dir\build
+Building C object CMakeFiles/cmTC_e0a03.dir/CMakeCCompilerABI.c.obj
+	E:\vss\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe @C:\Users\golan\AppData\Local\Temp\nm2D46.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_e0a03.exe
+	"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_e0a03.dir --rc="E:\Windows Kits\10\bin\10.0.22000.0\x86\rc.exe" --mt="E:\Windows Kits\10\bin\10.0.22000.0\x86\mt.exe" --manifests -- E:\vss\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_e0a03.dir\objects1.rsp @C:\Users\golan\AppData\Local\Temp\nm3323.tmp
+
+
+

@@ -1,0 +1,33 @@
+--------------
+Name:    .text, VirtualSize:     71F4, VirtualSize:     1000, SizeOfRowData:     7200, PointerToRawData:      400, PointerToRelocations: 0, PointerToLineNumbers: 0, NumberOfRelocations: 0, NumberOfLineNumbers: 0, Characteristics: 60000060, 
+--------------
+Name:    .data, VirtualSize:       54, VirtualSize:     9000, SizeOfRowData:      200, PointerToRawData:     7600, PointerToRelocations: 0, PointerToLineNumbers: 0, NumberOfRelocations: 0, NumberOfLineNumbers: 0, Characteristics: C0000040, 
+--------------
+Name:   .rdata, VirtualSize:      E4C, VirtualSize:     A000, SizeOfRowData:     1000, PointerToRawData:     7800, PointerToRelocations: 0, PointerToLineNumbers: 0, NumberOfRelocations: 0, NumberOfLineNumbers: 0, Characteristics: 40000040, 
+--------------
+Name:     .bss, VirtualSize:      A74, VirtualSize:     B000, SizeOfRowData:        0, PointerToRawData:        0, PointerToRelocations: 0, PointerToLineNumbers: 0, NumberOfRelocations: 0, NumberOfLineNumbers: 0, Characteristics: C0000080, 
+--------------
+Name:   .idata, VirtualSize:      5D0, VirtualSize:     C000, SizeOfRowData:      600, PointerToRawData:     8800, PointerToRelocations: 0, PointerToLineNumbers: 0, NumberOfRelocations: 0, NumberOfLineNumbers: 0, Characteristics: C0000040, 
+--------------
+Name:     .CRT, VirtualSize:       34, VirtualSize:     D000, SizeOfRowData:      200, PointerToRawData:     8E00, PointerToRelocations: 0, PointerToLineNumbers: 0, NumberOfRelocations: 0, NumberOfLineNumbers: 0, Characteristics: C0000040, 
+--------------
+Name:     .tls, VirtualSize:        8, VirtualSize:     E000, SizeOfRowData:      200, PointerToRawData:     9000, PointerToRelocations: 0, PointerToLineNumbers: 0, NumberOfRelocations: 0, NumberOfLineNumbers: 0, Characteristics: C0000040, 
+--------------
+Name:   .reloc, VirtualSize:      410, VirtualSize:     F000, SizeOfRowData:      600, PointerToRawData:     9200, PointerToRelocations: 0, PointerToLineNumbers: 0, NumberOfRelocations: 0, NumberOfLineNumbers: 0, Characteristics: 42000040, 
+--------------
+Name:       /4, VirtualSize:       38, VirtualSize:    10000, SizeOfRowData:      200, PointerToRawData:     9800, PointerToRelocations: 0, PointerToLineNumbers: 0, NumberOfRelocations: 0, NumberOfLineNumbers: 0, Characteristics: 42000040, 
+--------------
+Name:      /19, VirtualSize:      DAA, VirtualSize:    11000, SizeOfRowData:      E00, PointerToRawData:     9A00, PointerToRelocations: 0, PointerToLineNumbers: 0, NumberOfRelocations: 0, NumberOfLineNumbers: 0, Characteristics: 42000040, 
+--------------
+Name:      /31, VirtualSize:       AF, VirtualSize:    12000, SizeOfRowData:      200, PointerToRawData:     A800, PointerToRelocations: 0, PointerToLineNumbers: 0, NumberOfRelocations: 0, NumberOfLineNumbers: 0, Characteristics: 42000040, 
+--------------
+Name:      /45, VirtualSize:       A0, VirtualSize:    13000, SizeOfRowData:      200, PointerToRawData:     AA00, PointerToRelocations: 0, PointerToLineNumbers: 0, NumberOfRelocations: 0, NumberOfLineNumbers: 0, Characteristics: 42000040, 
+--------------
+Name:      /57, VirtualSize:       38, VirtualSize:    14000, SizeOfRowData:      200, PointerToRawData:     AC00, PointerToRelocations: 0, PointerToLineNumbers: 0, NumberOfRelocations: 0, NumberOfLineNumbers: 0, Characteristics: 42000040, 
+--------------
+Name:      /70, VirtualSize:       75, VirtualSize:    15000, SizeOfRowData:      200, PointerToRawData:     AE00, PointerToRelocations: 0, PointerToLineNumbers: 0, NumberOfRelocations: 0, NumberOfLineNumbers: 0, Characteristics: 42000040, 
+--------------
+Name:      /81, VirtualSize:      344, VirtualSize:    16000, SizeOfRowData:      400, PointerToRawData:     B000, PointerToRelocations: 0, PointerToLineNumbers: 0, NumberOfRelocations: 0, NumberOfLineNumbers: 0, Characteristics: 42000040, 
+--------------
+ImageBase: 400000
+AddressOfEntryPoint: 14F0
